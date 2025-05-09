@@ -1,0 +1,5 @@
+# Default codeowners for repositories in dsb-infra
+* @Artlvns @Laffs2k5 @palwil @hansandershvale
+
+# This file is managed by terraform, do not edit manually
+#  Created by: https://github.com/dsb-infra/github-terraform-config
